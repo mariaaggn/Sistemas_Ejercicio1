@@ -1,0 +1,4 @@
+Ejercicio 1:
+
+Las letras se mezclan debido a que los hilos no están sincronizados,
+se acceden a los mismos recursos ylos hilos van accediendo de forma concurrente
